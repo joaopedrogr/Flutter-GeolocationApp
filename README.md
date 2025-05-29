@@ -21,11 +21,12 @@ This app is an excellent learning project for Flutter developers interested in g
 ### Flutter Mobile Version
 
 <p align="center">
-  <img src="/imagens/Mobile1.png" width="150" />
-  <img src="/imagens/Mobile2.png" width="150" />
-  <img src="/imagens/Mobile3.png" width="150" />
-  <img src="/imagens/Mobile4.png" width="150" />
+  <img src="/imagens/Mobile1.png" width="175" height="350"/>
+  <img src="/imagens/Mobile2.png" width="175" height="350"/>
+  <img src="/imagens/Mobile3.png" width="175" height="350"/>
+  <img src="/imagens/Mobile4.png" width="175" height="350"/>
 </p>
+
 
 ### Web Version
 
