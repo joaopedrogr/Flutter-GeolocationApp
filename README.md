@@ -18,24 +18,18 @@ This app is an excellent learning project for Flutter developers interested in g
 
 ## 🖼 Screenshots
 
-### Flutter Mobile Version
+### Mobile Version
 
 <p align="center">
-  <img src="/imagens/Mobile1.png" width="175" height="350"/>
-  <img src="/imagens/Mobile2.png" width="175" height="350"/>
-  <img src="/imagens/Mobile3.png" width="175" height="350"/>
-  <img src="/imagens/Mobile4.png" width="175" height="350"/>
+  <img src="https://github.com/user-attachments/assets/95ca23df-b65c-419c-8d32-435052e65118" width="300"/>
 </p>
-
 
 ### Web Version
 
-<p>
-  <img src="/imagens/Web1.png">
-  <img src="/imagens/Web2.png">
-  <img src="/imagens/Web3.png">
-  <img src="/imagens/Web4.png">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80c3fc3d-1cf2-45f4-9aee-e4a92137582e" width="600"/>
 </p>
+
 
 ### 🌐 Access the Web version at: https://flutter-geolocation-app.vercel.app/
 
